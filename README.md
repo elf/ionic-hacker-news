@@ -2,6 +2,8 @@
 
 The purpose of this Project is learning Ionic Framework with AngularJS.
 
+![Screenshot](screenshot-01.png)
+
 # Feature
 
 - To show top 25 articles of Hacker News.
@@ -31,3 +33,6 @@ ionic serve
   - http://ionicworldwide.herokuapp.com/ (Slack, en)
   - https://ionic-jp.herokuapp.com/ (Slack, ja-jp)
 
+# License
+
+MIT
